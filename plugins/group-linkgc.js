@@ -10,6 +10,6 @@ handler.tags = ['group']
 handler.command = /^link(g(c)?ro?up)?$/i
 
 handler.group = true
-handler.admin = true
+handler.admin = false
 
 module.exports = handler
